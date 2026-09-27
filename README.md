@@ -74,3 +74,9 @@ Depois, acesse o endereço disponibilizado pelo Vite no navegador.
 O usuário inicia no resumo do carrinho e pode acessar a tela de pagamento.
 
 Após preencher os dados corretamente, o sistema simula o processamento da compra. Se o número do cartão possuir todos os dígitos iguais, o usuário é direcionado para a página de falha. Caso contrário, é direcionado para a página de sucesso.
+
+## Organização do desenvolvimento
+
+O projeto foi organizado utilizando Git e GitHub, com uma branch `develop` para integração das alterações e uma branch de feature para a etapa de finalização do projeto.
+
+A versão final da aplicação está disponível na branch `main`.
